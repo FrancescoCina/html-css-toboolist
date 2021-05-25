@@ -62,18 +62,19 @@ h1{
     border: 0.5 solid black;
     border-width: thin;
 }
-.newtask{
+.linguetta{
     padding: 20px 50px; 
 }
 li{
     list-style-type: none;
+    margin: 20px;
 }
-.check{
+    .check{
     color: green;   
     border: solid green 1px;
     border-radius: 200px;
     padding-left: 3px;
-    padding-right: 3px;
+    padding-right: 3px; 
 }
 
 .editorial{
@@ -87,3 +88,81 @@ li{
     text-align: center;
     font-size: 10px;
     margin-left: 5px;
+}
+
+.q1{
+        width: 100px;
+        height: 30px;
+        background-color: rgb(172, 30, 117);
+        border-radius: 7px;
+        color: white;
+        padding: 5px;
+        border: none;
+        text-align: center;
+        font-size: 10px;
+        margin-left: 5px;
+}
+
+.recruiting{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(84, 153, 132);
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+
+.mobile{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(235, 141, 64);
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 5px;
+}
+.website{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(172, 92, 154);
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.sales{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(38, 190, 33);
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+
+
+
+
+.cross{
+    color: red;   
+    border: solid red 1px;
+    border-radius: 200px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
