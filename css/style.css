@@ -20,6 +20,13 @@ body{
     margin-left: 5px;
 }
 
+
+.linguetta{
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+
 /* classi header */
 h1{    
     display: inline-block;
@@ -74,7 +81,9 @@ h1{
     border-radius: 5px;
     color: rgb(133, 130, 130); 
     border: 1px solid lightgrey;
-    
+}
+h3{
+    vertical-align: middle;
 }
 
 /* classi titoletti liste */
